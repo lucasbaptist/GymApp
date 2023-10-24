@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0973DBEC2AE70A890055D831 /* StopWatchManage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0973DBEB2AE70A890055D831 /* StopWatchManage.swift */; };
 		09D9F8162AE6D7B300FC019E /* GymApp Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 09D9F8152AE6D7B300FC019E /* GymApp Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		09D9F81B2AE6D7B300FC019E /* GymAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09D9F81A2AE6D7B300FC019E /* GymAppApp.swift */; };
 		09D9F81D2AE6D7B300FC019E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09D9F81C2AE6D7B300FC019E /* ContentView.swift */; };
@@ -39,6 +40,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0973DBEB2AE70A890055D831 /* StopWatchManage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StopWatchManage.swift; sourceTree = "<group>"; };
 		09D9F80F2AE6D7B300FC019E /* GymApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GymApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		09D9F8152AE6D7B300FC019E /* GymApp Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GymApp Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		09D9F81A2AE6D7B300FC019E /* GymAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GymAppApp.swift; sourceTree = "<group>"; };
@@ -80,6 +82,7 @@
 			children = (
 				09D9F81A2AE6D7B300FC019E /* GymAppApp.swift */,
 				09D9F81C2AE6D7B300FC019E /* ContentView.swift */,
+				0973DBEB2AE70A890055D831 /* StopWatchManage.swift */,
 				09D9F81E2AE6D7B500FC019E /* Assets.xcassets */,
 				09D9F8202AE6D7B500FC019E /* Preview Content */,
 			);
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				09D9F81D2AE6D7B300FC019E /* ContentView.swift in Sources */,
+				0973DBEC2AE70A890055D831 /* StopWatchManage.swift in Sources */,
 				09D9F81B2AE6D7B300FC019E /* GymAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
